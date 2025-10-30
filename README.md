@@ -1,1 +1,1 @@
-This is README which no one really reads.
+Developed an Agentic AI Workflow that automatically retrieves the latest NIST SP 800-series compliance updates, extracts their contents, determines applicability to IT software development firms, summarizes the findings, and publishes results to GitHub via Pull Request. 
